@@ -13,7 +13,7 @@
 
 	<!-- Styles -->
 	<style>
-		.fortune,p{
+		.fortune,p,h4{
 			padding-left: 10px;
 			padding-right: 10px;
 		}
