@@ -114,7 +114,7 @@
 							{{ $sooth->sooth }}
 						@endif
 					</div>
-					<h4>Also on fortune.at.chiclay.com</h4>
+					<h4>Also on this site</h4>
 					<div class="fortune">
 						The domain is also hosting
 						Don Quixote Ipsum API. Here's
